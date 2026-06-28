@@ -18,12 +18,6 @@ We don't collect code from the wild. **We build it properly.**
 
 ---
 
-## 👤 Project Lead
-
-**Osama Bsharat**
-📧 osama.bsharat@menadevs.io
-
----
 
 ## 🧩 Focus areas
 
@@ -61,6 +55,13 @@ Issue  →  feature branch  →  Pull Request  →  review + green CI  →  merg
 ```
 
 Each repository is owned end to end by one engineer, developed through small, reviewed pull requests. Direct pushes to `main` are not allowed quality is enforced automatically.
+
+---
+
+## 👤 Project Lead
+
+**Osama Bsharat**
+📧 osama.bsharat@menadevs.io
 
 ---
 
